@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NightlightApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.1.
@@ -61,4 +60,3 @@ For more information on using the Angular CLI, including detailed command refere
 =======
 # nightLight
 a simple app in angular to control profiles and light color 
->>>>>>> 409be923aa1bfb7649c8f07859213bb7fc03ba2c
