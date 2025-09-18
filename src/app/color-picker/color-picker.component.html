@@ -1,0 +1,8 @@
+<div class="color-picker">
+    <canvas #spectrumCanvas width="300" height="150"></canvas>
+    <canvas #saturationCanvas width="300" height="20"></canvas>
+    <canvas #brightnessCanvas width="300" height="20"></canvas>
+    <div class="color-display" [style.backgroundColor]="rgbColor">
+        Selected Color: {{ rgbColor }}
+    </div>
+</div>
