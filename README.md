@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NightlightApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.1.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# nightLight
+a simple app in angular to control profiles and light color 
+>>>>>>> 409be923aa1bfb7649c8f07859213bb7fc03ba2c
